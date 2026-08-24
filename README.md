@@ -49,6 +49,7 @@ My approach is iterative and test-informed. I first identify the core objects an
 ---
 
 ## Technologies Used
+- VS Code 
 - Java
 - JUnit
 - In-memory data structure (HashMap)
