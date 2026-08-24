@@ -1,0 +1,2 @@
+# CS-320-Software-tests-Automation-and-QA-Contact-Service-Project
+This is part of my Project 1 &amp; 2 submissions for CS-320. The purpose of this project is to demonstrate my work in software testing, automation, and quality assurance. Also to demonstrate my ability to create unit tests to uncover errors, analyze various approaches to software testing, and apply appropriate testing strategies to meet requirements. 
